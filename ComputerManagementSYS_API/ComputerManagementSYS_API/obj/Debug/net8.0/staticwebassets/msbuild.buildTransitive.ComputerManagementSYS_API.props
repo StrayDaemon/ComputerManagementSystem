@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ComputerManagementSYS_API.props" />
+</Project>
