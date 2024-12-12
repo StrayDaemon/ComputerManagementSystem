@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\datahelper\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\datahelper\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\datahelper\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\datahelper\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\controllers\\computerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\controllers\\computerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|c:\\users\\admin\\source\\repos\\computermanagementsys\\api\\computermanagementsys_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F844915-B047-4A3F-9215-D71A985757A5}|ComputerManagementSYS_API\\ComputerManagementSYS_API.csproj|solutionrelative:computermanagementsys_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:58:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Datahelper\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Datahelper\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Datahelper\\KeyGenerator.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Datahelper\\KeyGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:13:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:13:02.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:11:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Datahelper\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Datahelper\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Datahelper\\UserDbContext.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Datahelper\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:06:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Program.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:01:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Models\\User.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:56:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputersController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\ComputersController.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Controllers\\ComputersController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Controllers\\ComputersController.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Controllers\\ComputersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:45:49.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "ComputerManagementSYS_API\\Models\\Computer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ComputerManagementSYS\\API\\ComputerManagementSYS_API\\Models\\Computer.cs",
+              "RelativeToolTip": "ComputerManagementSYS_API\\Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:41:45.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
